@@ -1,6 +1,6 @@
 # Tiny模板语言 TTL(Tiny Template Language)
 
-> 在写jetx文件时，需要遵循TTL语法规范，详情参考[官方文档](http://www.tinygroup.org/docs/32d81fe7076947d585b5778a66a1a50d "跳转")
+> 在写jetx文件时，需要遵循TTL语法规范，以下是部分摘要，详情参考[官方文档](http://www.tinygroup.org/docs/32d81fe7076947d585b5778a66a1a50d "跳转")
 
 ## 基本语法
 
