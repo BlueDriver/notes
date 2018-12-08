@@ -7,6 +7,6 @@ git config core.autocrlf false
 
 Git global setup
 ```
-git config --global user.name "BlueDriver"
+git config --global user.name "cpwu@foxmail.com"
 git config --global user.email "cpwu@foxmail.com"
 ```
