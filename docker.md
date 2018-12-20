@@ -2,7 +2,7 @@
 
 ## About
 
-> [Docker官网]([http://www.docker.com](http://www.docker.com/))
+> [Docker官网](http://www.docker.com)
 >
 > [Github](https://github.com/moby/moby)
 >
