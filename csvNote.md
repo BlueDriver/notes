@@ -32,7 +32,7 @@ ManReq,desc,name,age,birth
 ---
 >###  注意事项
 
-1. 行下标从0开始，第0行为表头
+1. 行下标从**0**开始，第**0**行为表头
 
 2. 表头从第三列开始，其名称必须与对应的Req的field一一对应
 3. 在形如`reqList = CSVSupport.getListFromCSV(ManReq.class,
@@ -66,4 +66,8 @@ ManReq.csv表格视图，附带注释说明
 |  1   | 正例 | Alice |  20  | 19980408 |
 |  2   | 正例 |  Bob  |  22  | 19960608 |
 
-如上，加了两行辅助行来说明字段意思和数据类型，这时读取数据就要跳过他们，从第3行开始
+如上，加了两行辅助行来说明字段意思和数据类型，这时读取数据就要跳过他们，从第**3**行开始
+
+## 重要提示
+
+> 自动生成CSV表头的IDEA插件在这：[ingTools](https://github.com/BlueDriver/ingTools)
