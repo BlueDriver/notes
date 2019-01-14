@@ -100,5 +100,13 @@ Container | Object
 
 ### [Docker命令大全](http://www.runoob.com/docker/docker-command-manual.html)
 
+### 进入容器
+
+#### `docker exec -it 775c7c9ee1e1 /bin/bash`
+
+### Linux查看端口占用
+
+#### `netstat -tunlp`
+
 
 
