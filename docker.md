@@ -26,6 +26,9 @@ Container | Object
 
 
 ## Command
+> docker容器默认时区为UTC，若要更改可通过在服务器运行命令
+>
+> `echo "Asia/shanghai" > /etc/timezone;` 然后重启容器即可
 
 ### 命令帮助
 
